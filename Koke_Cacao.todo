@@ -1,0 +1,52 @@
+  How to use this Todo List:
+    * You should categorize tasks into different list.
+    * You should use this list using the following procedure:
+      - Create a task
+      - use "c[tab][tab][tab]" to generate created time
+      - use "d[tab]" to create your own due date
+      - use "@today", "c[tab]", "l[tab]", or "h[tab]" to create priority
+    * You should following this procedure to change tasks:
+      - use "s[tab]" to start
+      - use "tg[tab]" to pause
+      - use "ctrl+-" to cancel
+      - use "ctrl+=" to finish
+    * To archive tasks: press "ctrl+shift+a".
+    * You should upload this to github repository to save your work and open it on different platform.
+--- ✄ -----------------------
+  Related to Study:
+   ☐ Reading Books @created(18-06-12 22:57) @due(18-08-11 23:19) @today
+     * You can do this during the Stanford Institute
+   ✔ Finish Studying 200 words @created(18-06-12 22:58) @due(18-06-12 23:00) @critical @done (18-06-12 23:00)
+   ☐ Finish Reviewing all previous words @created(18-06-12 23:01) @due(18-06-13 01:02) @today
+   ☐
+
+  Related to Other:
+   ☐ Figuring out the route to see Universities @created(18-06-12 23:20) @due(18-06-19 23:21) @today
+     * 微信公衆號: 老茶看大學
+   ☐ Finish Nigeria News Letter @created(18-06-12 23:21) @due(18-06-16 23:21) @today
+   ☐ Wash yourself @created(18-06-12 23:31) @today
+   ☐ Email school to take the vaccine for breast cancer @created(18-06-12 23:42) @critical
+   ☐ Social Security Number @created(18-06-12 23:43) @critical
+   ☐ Buy medicine for US @created(18-06-12 23:44) @critical
+
+  Related to Play (no due date, except for @critical):
+   ☐ Build a backup system for your laptop @created(18-06-12 23:22) @high
+   ☐ Finish sign up mail for soldiers @created(18-06-12 23:23) @critical
+   ☐ Buy gifts to host family @created(18-06-12 23:30) @high
+     * include vacuum cleaner and can-opener
+   ☐ Setting up this document @created(18-06-12 23:30) @today @started(18-06-12 23:31)
+   ☐ Draw your head @created(18-06-12 23:32) @low
+   ☐ Convert vocab list to excel @created(18-06-12 23:32) @high
+   ✔ Udacity write review @created(18-06-12 23:35) @due(18-06-13 23:35) @high @done (18-06-12 23:46)
+   ☐ Plan for Stanford activities @created(18-06-12 23:37) @critical
+   ☐ Teach your mom to use OneNote @created(18-06-12 23:38) @low
+
+  My Dream:
+   ☐ Study Calculus @created(18-06-12 23:37)
+   ☐ Google Science Fair @created(18-06-12 23:37)
+   ☐ Study Udacity @created(18-06-12 23:37)
+     * It can be WeChat or ML
+   ☐ Create your website @created(18-06-12 23:37) @high
+
+  Appointments:
+   ☐ Talk to Blake [Monday 10:30 am]
